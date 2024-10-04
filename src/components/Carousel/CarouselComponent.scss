@@ -1,0 +1,36 @@
+.container-carousel {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Две колонки с одинаковой шириной */
+  gap: 2rem; /* Промежуток между колонками */
+  .wr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45rem;
+    height: 27rem;
+
+    .carousel {
+      margin-bottom: 1rem;
+      .image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    .info {
+      display: flex;
+      gap: 4rem;
+      .description {
+        .type {
+          text-align: center;
+          font-weight: 700;
+          font-size: 1.5rem;
+        }
+        .type-answer {
+          text-align: center;
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
+}

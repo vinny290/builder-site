@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+html {
+  font-size: 62.5%; /* 62.5% от 16px (по умолчанию) = 10px */
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+}

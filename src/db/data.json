@@ -1,0 +1,54 @@
+[
+  {
+    "images": [
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work2.jpg",
+      "../../../public/asset/content/section2/work/work1/work3.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg"
+    ],
+    "type": "Капитальный",
+    "cost": "600 000",
+    "duration": "100 дней",
+    "area": "80 м2"
+  },
+  {
+    "images": [
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg"
+    ],
+    "type": "Капитальный",
+    "cost": "1 000 000",
+    "duration": "100 дней",
+    "area": "80 м2"
+  },
+  {
+    "images": [
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg"
+    ],
+    "type": "Косметический",
+    "cost": "700 000",
+    "duration": "100 дней",
+    "area": "80 м2"
+  },
+  {
+    "images": [
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg",
+      "../../../public/asset/content/section2/work/work1/work1.jpg"
+    ],
+    "type": "Косметический",
+    "cost": "200 000",
+    "duration": "100 дней",
+    "area": "80 м2"
+  }
+]

@@ -1,0 +1,25 @@
+.header-top {
+  height: 4em;
+  display: flex;
+  align-items: center;
+}
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+  .nav:nth-child(2),
+  .nav:nth-child(3) {
+    display: none;
+  }
+}
